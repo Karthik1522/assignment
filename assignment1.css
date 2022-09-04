@@ -1,0 +1,50 @@
+h1{
+    height: 50px;
+    width: 1500px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.cards
+{
+    height: 500px;
+    width: 1500px;
+    background-color: grey;
+}
+.card1
+{
+    height: 400px;
+    width: 400px;
+    background-color: orange;
+    text-align: center;
+    margin: 30px;
+    display: inline-block;
+}
+.card2{
+    height: 400px;
+    width: 400px;
+    background-color: blue;
+    text-align: center;
+    margin: 50px;
+    display: inline-block;
+}
+.card3
+{
+    height: 400px;
+    width: 400px;
+    background-color:yellow;
+    text-align: center;
+    margin: 30px;
+    display: inline-block;
+}
+.para{
+    height: 250px;
+    width: 250px;
+    font-size: large;
+    text-align: center;
+    background-color: white;
+    color: black;
+    border: 0px;
+    margin: auto;
+
+}
